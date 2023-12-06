@@ -1,7 +1,5 @@
 <template>
-  <div>
-    <h1>La mia prima app con Vite!</h1>
-  </div>
+  <h1>La mia prima app di viaggi con Vite!</h1>
 </template>
 
 <script>
@@ -15,6 +13,9 @@ export default {
 
 <style scoped>
 h1 {
-  color: red;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: #ffa500;
+  text-align: center;
+  margin: 50px 0;
 }
 </style>
